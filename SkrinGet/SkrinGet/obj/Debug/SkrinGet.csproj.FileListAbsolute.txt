@@ -1,0 +1,10 @@
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\bin\Debug\SkrinGet.exe.config
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\bin\Debug\SkrinGet.exe
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\bin\Debug\SkrinGet.pdb
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\obj\Debug\SkrinGet.csproj.AssemblyReference.cache
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\obj\Debug\SkrinGet.Form1.resources
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\obj\Debug\SkrinGet.Properties.Resources.resources
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\obj\Debug\SkrinGet.csproj.GenerateResource.cache
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\obj\Debug\SkrinGet.csproj.CoreCompileInputs.cache
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\obj\Debug\SkrinGet.exe
+C:\Users\Raven\source\repos\SkrinGet\SkrinGet\obj\Debug\SkrinGet.pdb
