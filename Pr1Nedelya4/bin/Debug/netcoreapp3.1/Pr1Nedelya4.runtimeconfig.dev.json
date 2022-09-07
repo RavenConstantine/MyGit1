@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Raven\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Raven\\.nuget\\packages"
+    ]
+  }
+}

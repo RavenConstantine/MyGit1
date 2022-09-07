@@ -1,0 +1,16 @@
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\bin\Debug\NavaniePridumauPotom.exe.config
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\bin\Debug\NavaniePridumauPotom.exe
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\bin\Debug\NavaniePridumauPotom.pdb
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.csproj.AssemblyReference.cache
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.Autorization.resources
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.Properties.Resources.resources
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.csproj.GenerateResource.cache
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.csproj.CoreCompileInputs.cache
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.exe
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.pdb
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.MainTable.resources
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\bin\Debug\SD_PROC.accdb
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\bin\Debug\USERS.accdb
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.AddProc.resources
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.GenAgreement.resources
+C:\Users\Raven\source\repos\NavaniePridumauPotom\NavaniePridumauPotom\obj\Debug\NavaniePridumauPotom.csproj.ResolveComReference.cache
