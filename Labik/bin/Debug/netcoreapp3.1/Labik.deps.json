@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Labik/1.0.0": {
+        "dependencies": {
+          "LabClass": "1.0.0"
+        },
+        "runtime": {
+          "Labik.dll": {}
+        }
+      },
+      "LabClass/1.0.0": {
+        "runtime": {
+          "LabClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LabClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

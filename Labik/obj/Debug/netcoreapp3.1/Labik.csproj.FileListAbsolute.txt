@@ -1,0 +1,17 @@
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\Labik.exe
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\Labik.deps.json
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\Labik.runtimeconfig.json
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\Labik.runtimeconfig.dev.json
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\Labik.dll
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\Labik.pdb
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\LabClass.dll
+C:\Users\koctr\Documents\GitHub\No-name\Labik\bin\Debug\netcoreapp3.1\LabClass.pdb
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.csproj.AssemblyReference.cache
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.AssemblyInfoInputs.cache
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.AssemblyInfo.cs
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.csproj.CoreCompileInputs.cache
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.csproj.CopyComplete
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.dll
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.pdb
+C:\Users\koctr\Documents\GitHub\No-name\Labik\obj\Debug\netcoreapp3.1\Labik.genruntimeconfig.cache

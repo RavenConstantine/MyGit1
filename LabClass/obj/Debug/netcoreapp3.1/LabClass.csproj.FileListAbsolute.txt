@@ -1,0 +1,10 @@
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\bin\Debug\netcoreapp3.1\LabClass.deps.json
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\bin\Debug\netcoreapp3.1\LabClass.dll
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\bin\Debug\netcoreapp3.1\LabClass.pdb
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\obj\Debug\netcoreapp3.1\LabClass.csproj.AssemblyReference.cache
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\obj\Debug\netcoreapp3.1\LabClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\obj\Debug\netcoreapp3.1\LabClass.AssemblyInfoInputs.cache
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\obj\Debug\netcoreapp3.1\LabClass.AssemblyInfo.cs
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\obj\Debug\netcoreapp3.1\LabClass.csproj.CoreCompileInputs.cache
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\obj\Debug\netcoreapp3.1\LabClass.dll
+C:\Users\koctr\Documents\GitHub\No-name\LabClass\obj\Debug\netcoreapp3.1\LabClass.pdb
